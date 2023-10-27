@@ -32,7 +32,7 @@ git clone https://github.com/BlackyHat/backendless-test.git
 
 ##### Demo 🖥️ 🚀 📅 🏦
 
-### [GO TO LIVE DEMO PAGE HERE ](/) 👀 🌀 📙
+### [GO TO LIVE DEMO PAGE HERE ](https://backendless-x1iz.onrender.com) 👀 🌀 📙
 
 ![Main page ](assets/app_screenshot.jpg)
 
