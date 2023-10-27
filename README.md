@@ -1,4 +1,4 @@
-# My Wallet App 👔 🖥️
+# Backendless Test task 👔 🖥️
 
 Task:
 Using React, React Router, and Webpack write a simple client-side app that works like a primitive CMS (content management system).
