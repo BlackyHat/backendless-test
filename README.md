@@ -34,7 +34,7 @@ git clone https://github.com/BlackyHat/backendless-test.git
 
 ### [GO TO LIVE DEMO PAGE HERE ](https://backendless-x1iz.onrender.com) 👀 🌀 📙
 
-![Main page ](assets/app_screenshot.jpg)
+![Main page ](assets/app_screenshot.png)
 
 ## The web application using the following technologies and libraries: ⚙️ 🚧 🖥️
 
